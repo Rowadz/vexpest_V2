@@ -17,5 +17,5 @@ code for the [second version](https://github.com/MohammedAl-Rowad/vexpest/tree/v
 
 ## Examples
 
-<img src="example1.png"/>
-<img src="example2.png"/>
+<img src="example1-v2.png"/>
+<img src="example2-v2.png"/>
