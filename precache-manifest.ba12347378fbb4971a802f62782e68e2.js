@@ -29,18 +29,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     revision: '759e3b4df363fda997e161b3d0e26053',
-    url: '/vexpest_V2/static/media/chart2.759e3b4d.svg',
+    url: '/vexpest_V2/vexpest_V2/static/media/chart2.759e3b4d.svg',
   },
   {
     revision: '9312511d104ce3bdd260b38ba3ea9bde',
-    url: '/vexpest_V2/static/media/creator.9312511d.svg',
+    url: '/vexpest_V2/vexpest_V2/static/media/creator.9312511d.svg',
   },
   {
     revision: '62754a97bd86f1f7d5869a8fde33471a',
-    url: '/vexpest_V2/static/media/sourceCode.62754a97.svg',
+    url: '/vexpest_V2/vexpest_V2/static/media/sourceCode.62754a97.svg',
   },
   {
     revision: '23ee41cea8206db1ffa40247bf989e51',
-    url: '/vexpest_V2/static/media/spaceman.23ee41ce.svg',
+    url: '/vexpest_V2/vexpest_V2/static/media/spaceman.23ee41ce.svg',
   },
 ])

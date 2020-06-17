@@ -14,16 +14,16 @@
     "static/css/2.90405288.chunk.css.map": "/static/css/2.90405288.chunk.css.map",
     "static/css/main.d88a19cc.chunk.css.map": "/static/css/main.d88a19cc.chunk.css.map",
     "static/js/2.138e4dcc.chunk.js.LICENSE.txt": "/static/js/2.138e4dcc.chunk.js.LICENSE.txt",
-    "static/media/chart2.svg": "/static/media/chart2.759e3b4d.svg",
-    "static/media/creator.svg": "/static/media/creator.9312511d.svg",
-    "static/media/sourceCode.svg": "/static/media/sourceCode.62754a97.svg",
-    "static/media/spaceman.svg": "/static/media/spaceman.23ee41ce.svg"
+    "static/media/chart2.svg": "/vexpest_V2/static/media/chart2.759e3b4d.svg",
+    "static/media/creator.svg": "/vexpest_V2/static/media/creator.9312511d.svg",
+    "static/media/sourceCode.svg": "/vexpest_V2/static/media/sourceCode.62754a97.svg",
+    "static/media/spaceman.svg": "/vexpest_V2/static/media/spaceman.23ee41ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40600b02.js",
-    "static/css/2.90405288.chunk.css",
-    "static/js/2.138e4dcc.chunk.js",
-    "static/css/main.d88a19cc.chunk.css",
-    "static/js/main.829c5d57.chunk.js"
+    "/vexpest_V2/static/js/runtime-main.40600b02.js",
+    "/vexpest_V2/static/css/2.90405288.chunk.css",
+    "/vexpest_V2/static/js/2.138e4dcc.chunk.js",
+    "/vexpest_V2/static/css/main.d88a19cc.chunk.css",
+    "/vexpest_V2/static/js/main.829c5d57.chunk.js"
   ]
 }
