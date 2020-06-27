@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vexpest_V2/precache-manifest.fea96e2601d8aae06b9aab3aff879709.js"
+  "/vexpest_V2/precache-manifest.ed3f731aa868846654f996dec345e887.js"
 );
 
 self.addEventListener('message', (event) => {
