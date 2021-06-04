@@ -7,6 +7,9 @@
 - prettier ( in my opinion )
 - I think this is a better way to represent data
 
+ - 💫 facebook Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/facebook)
+ - 💫 google Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/google)
+
 ## Notes
 
 check out the [old version](https://mohammedal-rowad.github.io/vexpest/)
