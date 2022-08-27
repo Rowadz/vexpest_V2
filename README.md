@@ -7,16 +7,16 @@
 - prettier ( in my opinion )
 - I think this is a better way to represent data
 
- - 💫 facebook Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/facebook)
- - 💫 google Vexpest dashboard [link](https://mohammedal-rowad.github.io/vexpest_V2/#/dashboard/google)
+ - 💫 facebook Vexpest dashboard [link](https://rowadz.github.io/vexpest_V2//#/dashboard/facebook)
+ - 💫 google Vexpest dashboard [link](https://rowadz.github.io/vexpest_V2//#/dashboard/google)
 
 ## Notes
 
-check out the [old version](https://mohammedal-rowad.github.io/vexpest/)
-check out the [new version](https://mohammedal-rowad.github.io/vexpest_V2/)
+check out the [old version](https://rowadz.github.io/vexpest/)
+check out the [new version](https://rowadz.github.io/vexpest_V2/)
 
-code for the [first version](https://github.com/MohammedAl-Rowad/vexpest/tree/code)
-code for the [second version](https://github.com/MohammedAl-Rowad/vexpest/tree/version_2)
+code for the [first version](https://github.com/Rowadz/vexpest/tree/code)
+code for the [second version](https://github.com/Rowadz/vexpest/tree/version_2)
 
 ## Examples
 <img src="ex-dark-facebook.png"/>
